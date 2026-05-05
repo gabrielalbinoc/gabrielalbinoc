@@ -55,12 +55,6 @@
 
 ---
 
-## 📈 Estatísticas GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielalbinoc\&show_icons=true\&theme=tokyonight)
-
----
-
 ## 🌐 Contato
 
 * 📧 Email: [gabrielalbino123@gmail.com](mailto:gabrielalbino123@gmail.com)
